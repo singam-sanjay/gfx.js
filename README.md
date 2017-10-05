@@ -6,7 +6,7 @@ The goal is to extend this project to support the creation of rich media windows
 on top of the terminal windows.
 
 The idea is simple: the server watches a directory, and monitors the creation &
-modification of HTML files; upong modification / creation, it creates a new window
+modification of HTML files; upon modification / creation, it creates a new window
 on the client side (browser), which simply render the HTML. 
 
 Clients are easy to develop: one simply needs to dump HTML into the watched
